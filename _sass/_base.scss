@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
 
 
 /** Variables **********************************************/
-$base-font-family:              Helvetica, sans-serif;
+$base-font-family:				'Signika Negative', sans-serif;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -115,6 +115,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 100;
+	font-family: 'Patua One', cursive;
 }
 
 

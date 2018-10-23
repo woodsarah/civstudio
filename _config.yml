@@ -1,10 +1,9 @@
 # Site settings
 title: civic studio
 email: civicstudio@gvsu.edu
-description: > # this means to ignore newlines until "baseurl:"
-  practicing and presenting art in public contexts.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+description: practicing and presenting art in public contexts.
+url: 
+baseurl: /civstudio
 twitter_username: twitter_username
 github_username:  github_username
 
