@@ -2,7 +2,7 @@
 layout: post
 title: Cover the Land
 description: Installation with sod and scrap metal.
-img: /img/cover/1.jpg
+img: img/cover/1.jpg
 ---
 
 <h4 id="project-subtitle">Installation with sod and scrap metal.</h4>
@@ -10,12 +10,12 @@ img: /img/cover/1.jpg
 <br>
 
 {% slider bullets%}
-  ![phot 1](/img/cover/1.jpg)
-  ![phot 2](/img/cover/2.jpg)
-  ![phot 3](/img/cover/3.jpg)
-  ![phot 4](/img/cover/4.jpg)
-  ![phot 5](/img/cover/5.jpg)
-  ![phot 6](/img/cover/6.jpg)
+  ![phot 1]({{ site.baseurl }}/img/cover/1.jpg)
+  ![phot 2]({{ site.baseurl }}/img/cover/2.jpg)
+  ![phot 3]({{ site.baseurl }}/img/cover/3.jpg)
+  ![phot 4]({{ site.baseurl }}/img/cover/4.jpg)
+  ![phot 5]({{ site.baseurl }}/img/cover/5.jpg)
+  ![phot 6]({{ site.baseurl }}/img/cover/6.jpg)
 {% endslider %}
 
 <br>

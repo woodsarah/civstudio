@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="{{ site.baseurl }}/img/prof_pic.jpg">
 
 <br/>
 Civic studio is an applied experimental studio project started in 1999. It operates as a public project and is organized as a course in the Art and Design Department at Grand Valley State University.
