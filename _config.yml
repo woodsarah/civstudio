@@ -2,8 +2,13 @@
 title: civic studio
 email: civicstudio@gvsu.edu
 description: practicing and presenting art in public contexts.
+<<<<<<< HEAD
 baseurl: "/civtest"
 url: 
+=======
+url: 
+baseurl: /civstudio
+>>>>>>> 0cab32f2e2ba207abb7a15ab931d4043a3c7194e
 twitter_username: twitter_username
 github_username:  github_username
 
